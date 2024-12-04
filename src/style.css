@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./fonts/my-font.woff2') format('woff2');
+         
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .hello {
+    font-family: 'MyFont', Arial, sans-serif;
+    color: red;
+    background: url('./images/background.png');
+  }
+  
